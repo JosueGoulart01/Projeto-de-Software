@@ -45,9 +45,6 @@ A disciplina aborda conceitos fundamentais para o desenvolvimento de sistemas de
 </p>
 
 ---
-
----
-
 ## 📊 Conteúdos Desenvolvidos
 
 ✔ Modelagem de sistemas  
