@@ -11,6 +11,7 @@ Repositório destinado às atividades, estudos e projetos desenvolvidos na disci
 **Josué Goulart**
 
 [![GitHub](https://img.shields.io/badge/GitHub-JosueGoulart01-181717?style=for-the-badge&logo=github)](https://github.com/JosueGoulart01)
+          <img src="https://komarev.com/ghpvc/?username=JosueGoulart01&color=0078d7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 ---
 
